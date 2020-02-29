@@ -27,8 +27,6 @@ The [Feedbooks API](http://www.feedbooks.com/api) was used to fetch books.
 
 ## 📸 ScreenShots
 
-<img src="ss/mockup.png"/>
-
 | Light| Dark|
 |------|-------|
 |<img src="ss/1.png" width="400">|<img src="ss/2.png" width="400">|
